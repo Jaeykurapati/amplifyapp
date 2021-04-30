@@ -7,4 +7,5 @@ import config from './aws-exports';
 
 Amplify.configure(config);
 
+
 ReactDOM.render(<App />, document.getElementById('root'))
